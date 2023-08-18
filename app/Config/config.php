@@ -2,7 +2,7 @@
 /**
  * define site URL
  */
-define("BURL", "http://mymvc.local/");
+define("BURL", "http://192.168.1.6/old/php_mvc/public/"); // edit this to base public url
 /**
  * database configration
  */
